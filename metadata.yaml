@@ -1,0 +1,30 @@
+_repo: British-Highways-And-Byways-From-A-Motor-CarWales-And-Scotland_17297
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17297-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murphy, Thos. D. (Thomas Dowler)
+    alias: Murphy, Thomas Dowler
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '7285'
+    url: http://www.gutenberg.org/2009/agents/7285
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Description and travel'
+- !lcsh 'Great Britain -- Maps'
+- !lcc 'DA'
+title: "British Highways and Byways from a Motor Car\r\nBeing a Record of a Five Thousand\
+  \ Mile Tour in England, Wales and Scotland"
+url: http://www.gutenberg.org/ebooks/17297
